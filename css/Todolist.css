@@ -1,0 +1,36 @@
+body{
+	background: #e28d1a;
+}
+
+
+
+/*We learn here three types of selector Elements*/
+/*         1)Elements selector or Tags Selector*/
+/*         2)Class Selector*/
+/*         3)Id Selector*/
+
+
+
+/*         1)Elements selector or Tags Selector*/
+
+li{
+       border: 5px solid red;
+}
+
+/*         2)Class Selector*/
+
+
+.Special{
+	background: blue;
+	border: 5px solid white;
+
+}
+
+
+
+/*         3)Id Selector*/
+#special{
+	background: blue;
+	border: 5px solid white;
+}
+
