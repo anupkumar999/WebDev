@@ -1,0 +1,34 @@
+/*star selector is used for selecting every emements in gtml*/
+
+*{
+	border: 1px solid red;
+}
+
+/*The Desendent Tag is used for the the parent element and the child element will be selected in this manner*/
+
+ul li{
+	color: blue;
+}
+
+/*Adjacent Selector*/
+
+h3+ul{
+	background-color: goldenrod;
+}
+
+/*Atttribute selector */
+
+
+a[href="http://www.google.com"] {
+
+
+	background: pink;
+}
+
+
+/*nth of Types*/
+
+
+li:nth-last-of-type(2){
+	background-color: fuchsia;
+}
