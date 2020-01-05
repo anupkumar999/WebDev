@@ -1,0 +1,9 @@
+/*body tag is a selector inside a curly braces there are css properties and its value*/
+body{
+	background-color: gray;
+}
+   /*Adding borders to h1*/
+h1{
+	border: 5px solid black;
+
+}
