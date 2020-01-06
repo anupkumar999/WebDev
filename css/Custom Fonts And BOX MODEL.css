@@ -1,0 +1,19 @@
+
+                      /*CUSTOM GOOGLE FONTS*/
+
+h1  {
+	font-family:Courgette;
+	text-align: center;
+}
+
+
+                 /*BOX MODEL*/
+/*Width,border,Padding Margin*/
+
+p{
+	border: 5px solid blue;
+	width: 50%;
+	padding: 5px 10px 5px 10px;
+	margin: 0 auto 0 auto;
+	
+}
