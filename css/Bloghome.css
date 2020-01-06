@@ -1,0 +1,14 @@
+img{
+	width: 30%;
+	float: inherit;
+	margin: 1%;
+}
+h1{
+	font-family: Courgette;
+	text-align: center;
+	font-size: 300%;
+	font-weight: 800;
+	text-transform: uppercase;
+	border-bottom: 5px solid red;
+
+}
