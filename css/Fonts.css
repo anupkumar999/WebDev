@@ -1,0 +1,33 @@
+/*Font-family*/
+p{
+	font-family: Arial;
+}
+h1{
+	font-family:Georgia;
+}
+
+/*Font-Size*/
+
+
+h1{
+	font-size: 200px;
+}
+
+/*Font-weight*/
+
+h1{
+	font-weight:100;
+}
+/*Line-Height*/
+p{
+	line-height: 2.5;
+}
+/*Text-align*/
+h1{
+	text-align: center;
+
+}
+/*Text-Decoration*/
+p{
+text-decoration: underline;
+}
