@@ -1,0 +1,34 @@
+body {
+	border: 20px solid grey;
+	padding: 20px;
+	width: 700px;
+	margin: 20px auto;
+	width: 80%;
+	font-family: Inria Serif;
+
+}
+
+.post{
+	padding: 20px;
+}
+.quote {
+padding: 5px;
+	border-left: 5px solid grey;
+}
+.Date{
+	color: black;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+
+}
+h2{
+	color: black;
+	font-size: 30px;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+
+}
