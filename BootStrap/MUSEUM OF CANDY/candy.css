@@ -33,7 +33,30 @@ color: red;
 @media (max-width:1200px){
 	
 	body{
-		background-color: orangered;
+		background-color: palevioletred;
         font-weight: 100;
 		font-size: 3rem;
 }
+	.blurb h1{
+		color: red;
+		font-weight: 100;
+	}
+	
+	.blurb p{
+		
+		color: lightpink;
+		font-weight: 100;
+		font-size: 1.125rem;
+		line-height: 2;
+	
+	}
+	.margin {
+		margin-top: 100px;
+	}
+	
+	.navbar.scrolled{
+		background: plum;
+		
+	}
+	
+	
